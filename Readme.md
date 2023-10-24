@@ -2,7 +2,7 @@
 
 ## Memory-game
 
-<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/memory-game/blob/master/MemoryGame_1.JPG" width="100%" height="20%"></img></div>
 
   [demo](https://juliadooby.github.io/memory-game/)
 ---
