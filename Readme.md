@@ -19,7 +19,7 @@
 
 ### Technologies Used:
 
-* HTML3
+* HTML5
 * CSS3
 * Javascript 
 
